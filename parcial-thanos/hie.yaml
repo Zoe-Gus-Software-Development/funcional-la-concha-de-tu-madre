@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcial-thanos:lib"
+
+    - path: "./test"
+      component: "parcial-thanos:test:parcial-thanos-test"

@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcial-friendsionales:lib"
+
+    - path: "./test"
+      component: "parcial-friendsionales:test:parcial-friendsionales-test"

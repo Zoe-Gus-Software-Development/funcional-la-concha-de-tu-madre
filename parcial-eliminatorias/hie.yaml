@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcial-eliminatorias:lib"
+
+    - path: "./test"
+      component: "parcial-eliminatorias:test:parcial-eliminatorias-test"

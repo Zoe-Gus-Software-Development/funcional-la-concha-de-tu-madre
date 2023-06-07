@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcial-minigolfito:lib"
+
+    - path: "./test"
+      component: "parcial-minigolfito:test:parcial-minigolfito-test"
